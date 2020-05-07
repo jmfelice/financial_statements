@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.xlsx
+.pdf
+.html
+/data
+/output
+/simfin_cache

@@ -1,0 +1,6 @@
+library(tidyverse)
+library(lubridate)
+library(magrittr)
+library(simfinR)
+library(TTR)
+library(ggplot2)
